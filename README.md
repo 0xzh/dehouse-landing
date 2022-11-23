@@ -1,8 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
-## Demo
+## Deployed Site
 
-Link to demo: https://ephemeral-meerkat-2368a1.netlify.app/
+Link to the deployed site: https://ephemeral-meerkat-2368a1.netlify.app/
 
 
 
